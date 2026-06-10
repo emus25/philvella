@@ -1,0 +1,145 @@
+{
+  "version": 2,
+  "exportedAt": "2026-06-10T11:21:05.624Z",
+  "card": {
+    "genInfo": {
+      "prefix": null,
+      "fname": "Phil",
+      "lname": "Vella",
+      "pronouns": null,
+      "name": null,
+      "title": "Founder",
+      "biz": "Vital Phase",
+      "desc": null,
+      "key": null,
+      "fp": null,
+      "tracker": null,
+      "fontLink": null,
+      "fontCss": null,
+      "street": "",
+      "city": "",
+      "state": "",
+      "postal": "",
+      "country": "",
+      "beforeTextLink": "Get your card @",
+      "linkedText": "Exposure Boost 👨‍💻",
+      "url": "https://o2o.to/i/1QdFNT",
+      "seoTitle": null,
+      "metaDescription": null,
+      "customFavi": "https://i.postimg.cc/Kcs0HqH5/keys-pdf-(1).png",
+      "shareImg": "https://i.postimg.cc/Kcs0HqH5/keys-pdf-(1).png",
+      "bookMarkImg": "https://i.postimg.cc/Kcs0HqH5/keys-pdf-(1).png",
+      "bookMarkTitle": null,
+      "metaName": null,
+      "metaContent": null,
+      "metaURL": null
+    },
+    "colors": {
+      "logoBg": {
+        "color": "#000000",
+        "openPalette": false
+      },
+      "mainBg": {
+        "color": "#000000",
+        "openPalette": false
+      },
+      "buttonBg": {
+        "color": "#FFFFFF",
+        "openPalette": false
+      },
+      "cardBg": {
+        "color": "#000000",
+        "openPalette": false
+      }
+    },
+    "hostedURL": null,
+    "footerCredit": true,
+    "footerCreditCustom": true,
+    "logoOrHeader": true,
+    "customFavicon": true,
+    "shareImage": true,
+    "seoOpti": true,
+    "seoOptimization": false,
+    "metaData": false,
+    "simplifyCard": false,
+    "isFeaturedOn": false,
+    "customFavi": true,
+    "bookMarkImg": null,
+    "bookMarkImage": true,
+    "bookMarkTitle": false,
+    "shareImg": null,
+    "images": {
+      "logo": null,
+      "photo": null,
+      "cover": {
+        "file": "cover.png",
+        "ext": "png",
+        "mime": "image/png"
+      },
+      "icon": null
+    },
+    "primaryActions": [
+      {
+        "name": "Office",
+        "href": "tel:",
+        "placeholder": "+1XXXXXXXXXX",
+        "value": "08000 025025",
+        "label": "Your Office Number"
+      },
+      {
+        "name": "email",
+        "href": "mailto:",
+        "placeholder": "info@example.com",
+        "value": "phil.vella@vitalphase.co.uk",
+        "label": "Your Email Address"
+      },
+      {
+        "name": "Mobile",
+        "href": "tel:",
+        "placeholder": "+1XXXXXXXXXX",
+        "value": "+44 7903 938234",
+        "label": "Your Mobile Number"
+      },
+      {
+        "name": "whatsApp",
+        "placeholder": "https://wa.me/profileID",
+        "value": "https://wa.me/+447903938234",
+        "label": "Your WhatsApp URL"
+      },
+      {
+        "name": "website",
+        "placeholder": "https://example.com",
+        "value": "https://www.vitalphase.com/",
+        "label": "Your Website URL"
+      }
+    ],
+    "secondaryActions": [],
+    "featured": [
+      {
+        "title": "",
+        "content": [
+          {
+            "label": "Review us on Google!",
+            "link": "https://g.page/r/CbizHi00UfIoEBM/review",
+            "contentType": "customButton"
+          },
+          {
+            "name": "googlelogonewest.png",
+            "title": "googlelogonewest",
+            "artist": null,
+            "album": null,
+            "filesize": null,
+            "type": "image",
+            "contentType": "media",
+            "ext": "png",
+            "mime": "image/png",
+            "info": null,
+            "file": "media/googlelogonewest.png",
+            "coverFile": null,
+            "coverExt": null
+          }
+        ]
+      }
+    ]
+  }
+}
